@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ppa</string>
+	<string>ppw</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
@@ -12,16 +12,16 @@
 	<string>/**
  * &lt;#description#&gt;
  */
-@property (assign, nonatomic) &lt;#type#&gt; &lt;#name#&gt;;</string>
+@property (weak, nonatomic) &lt;#type#&gt; &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8CE5EFCD-A363-4C26-A200-2FF4974663F5</string>
+	<string>4EF6050B-71FD-4E1A-97DE-B8EDF91E7A9A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property (assign)</string>
+	<string>Property (weak)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
